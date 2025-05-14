@@ -1,4 +1,4 @@
-# 🚀 Shareb00st3r v2 
+# 🚀 Shareb00st3rs v2 
 
 Automates Facebook post shares.
 
@@ -18,7 +18,7 @@ Automates Facebook post shares.
 2.  **Clone the Repository:**
     Open your terminal or command prompt and run:
     ```bash
-    git clone https://github.com/joshuaAposto/ShareBooster.git
+    git cclone https://github.com/kenrupogisalahat/ShareBooster.git
     cd ShareBooster
     ```
 
